@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 
 test 1
 test 2
 test 3
 test 4
 
+=======
+commit 1
+commit 2
+commit 3
+commit 4
+>>>>>>> parent of a35bdae (commit 5)
